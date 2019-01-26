@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>PRACTICA 2</title>
+</head>
+<body bgcolor="#4db6ac">
+	<font face="Comic Sans MS,Verdana" color="RED" size="20">Johari Alexander Pacheco P&eacuterez</font>
+
+	<h2>Comida favorita</h2>
+	<nav>
+		<ol>
+			<li>Mole</li>
+			<li>Costilla</li>
+			<li>Pepita</li>
+			<li>Chamfaina</li>
+			<li>Barbacoa</li>
+		</ol>
+		<h2>Dulce Favorito</h2>
+		<dl>
+			<dt>Suspiros</dt>
+			<dd>Dulces tipicos de chiapas</dd>
+			<dt>Melcocha</dt>
+			<dd>Dulce tipico de Oaxaca</dd>
+		</dl>
+	</nav>
+</body>
+</html>
